@@ -12,6 +12,6 @@ int main(){
         fin >> a[i];
     }
     if(c == 1){
-
+        
     }
 }
