@@ -1,8 +1,7 @@
-//60p
 #include <bits/stdc++.h>
 using namespace std;
 
-int n,m,matrice[101][101],c,px,py;
+int n,m,matrice[1001][1001],c,px,py;
 int dx[] = {1, 0, -1, 0};
 int dy[] = {0, 1, 0, -1};
 
