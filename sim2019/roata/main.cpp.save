@@ -1,0 +1,44 @@
+//#include <iostream>
+#include <fstream>
+#include <cmath>
+#include <algorithm>
+using namespace std;
+
+ifstream cin("roata.in");
+ofstream cout("roata.out");
+
+int n, v[1000001], k = 1, ceEsteAici[50001], cuCatSeMuta;
+bool toateSunt0;
+
+int main()
+{
+    cin >> n;
+    for(int i = 1; i <= n; ++i)
+    {
+        cin >> v[i];
+        ceEsteAici[i] = v[i];
+    }
+    while(toateSunt0 == false)
+    {
+        for(int i = 1; i <= n; ++i)
+        {
+            if(v[i] == k)
+            {
+                cuCatSeMuta = n-i+1;
+                for(int j = 1; j <= n; ++j)
+                {
+                    if(j + cuCatSeMuta > n)
+                    {
+                        v[j + cuCatSeMuta - n] = ceEsteAici[j];
+                        continue;
+                    }
+                    v[j + cuCatSeMuta] = ceEsteAici[j];
+                }
+                v[1] = 0;
+                for(int j = 1; j <= n; ++j)
+                    ceEsteAici[j] = v[j];
+            }
+            cout << cuCatSeMuta;
+        }
+    }
+}

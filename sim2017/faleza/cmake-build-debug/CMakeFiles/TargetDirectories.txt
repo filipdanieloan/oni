@@ -1,0 +1,3 @@
+/home/filip/repos/oni/sim2017/faleza/cmake-build-debug/CMakeFiles/faleza.dir
+/home/filip/repos/oni/sim2017/faleza/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/filip/repos/oni/sim2017/faleza/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1743443340 source:/home/filip/repos/oni/sim2019/optime/main.cpp
+	<fstream>
+	<algorithm>
+	<cmath>
+

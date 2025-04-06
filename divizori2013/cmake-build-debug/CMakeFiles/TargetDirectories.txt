@@ -1,0 +1,3 @@
+/home/filip/repos/oni/divizori2013/cmake-build-debug/CMakeFiles/divizori2013.dir
+/home/filip/repos/oni/divizori2013/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/filip/repos/oni/divizori2013/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/filip/repos/oni/sim2017/peste/cmake-build-debug/CMakeFiles/peste.dir
+/home/filip/repos/oni/sim2017/peste/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/filip/repos/oni/sim2017/peste/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/filip/repos/oni/sim2016/cod/cmake-build-debug/CMakeFiles/cod.dir
+/home/filip/repos/oni/sim2016/cod/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/filip/repos/oni/sim2016/cod/cmake-build-debug/CMakeFiles/rebuild_cache.dir
